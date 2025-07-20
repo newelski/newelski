@@ -4,12 +4,12 @@
 
 I bring digital experiences from thought to production while empowering those around me. The core values in everything I do are **curiosity**, **bravery**, and **kindness**.
 
-🚀 **Latest Projects:** Recently launched a URL shortener at [nwl.ski/link](https://nwl.ski/link) and currently developing a cross-platform app to help optimize Google Drive storage usage!
+🚀 **Latest Projects:** Recently launched a URL shortener at [nwl.ski](https://nwl.ski) after finding a perfect domain name for it. Outside of web development I am working a cross-platform app to help optimize Google Drive storage usage by compressing video and image files.
 
 ---
 
 ### 🚀 About Me
-- 🎯 **14+ years** of JavaScript development experience
+- 🎯 **15+ years** of JavaScript development experience
 - 💼 Currently working as **Staff Software Developer** 
 - 🌟 Love building with **React**, **Angular**, **TypeScript**, and **scalable UI architectures**
 - 🎨 Strong background in **design systems** and **accessibility (WCAG)**
