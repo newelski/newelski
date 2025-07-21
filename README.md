@@ -1,6 +1,6 @@
 # Hey there, I'm Matt! 👋
 
-## Front-End Developer passionate about accessible User Experiences, scalable User Interfaces, and Creative Solutions to Complex Problems.
+## Front-End Developer passionate about accessible User Experiences, scalable User Interfaces, and creative solutions to complex problems.
 
 I bring digital experiences from thought to production while empowering those around me. The core values in everything I do are **curiosity**, **bravery**, and **kindness**.
 
@@ -75,13 +75,15 @@ I bring digital experiences from thought to production while empowering those ar
 - Developed cross-platform applications with React Native
 - Standardized code practices and CI/CD pipelines
 
+**🏢 Front-End, Full-Stack, Web Developer** *(2010-2022)*
+- Worked for a number of different organizations building web technologies
 ---
 
 ### 🎯 Cool Projects I've Built
 - **🔐 Real SMS Reader** - Built a same-day solution for Okta 2FA testing when virtual numbers failed us. PHP webhook + PWA that unblocked a major airline project in 24h!
 - **📚 Educational Content** - Create online courses and stream on Twitch covering dev tools, AI-powered bookmarklets, and PWA development
 - **🏆 Pickem.fun** - Free CS:GO tournament prediction platform that got 100K+ visits in 48h and 20K+ predictions shared
-- **🎨 Sign Pics Platform** - MVP for creators to make personalized autographed NFTs for fans
+- **🎨 Signed.Pics Platform** - MVP for creators to make personalized autographed NFTs for fans
 - **🤖 Custom Twitch Bot** - Built community engagement tools with custom animations and sound effects
 
 ---
